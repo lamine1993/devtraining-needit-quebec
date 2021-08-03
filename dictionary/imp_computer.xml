@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Computer" max_length="40" name="imp_computer" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=11/11/16" label="11/11/16" max_length="40" name="u_11_11_16" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Danny Dales" label="Danny Dales" max_length="40" name="u_danny_dales" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Imported record 4" label="Imported record 4" max_length="40" name="u_imported_record_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Legal" label="Legal" max_length="40" name="u_legal" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Legal 1" label="Legal 1" max_length="40" name="u_legal_1" type="string"/>
+    </element>
+</database>
